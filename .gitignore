@@ -3,3 +3,4 @@
 *.pkl
 *.pt
 Chapter 3/data/*
+*.pyc
